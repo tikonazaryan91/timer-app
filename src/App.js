@@ -12,8 +12,8 @@ function App() {
                 <h2>Timer</h2>
             </header>
             <div>
-                <CountdownTimer date="2020-07-25"/>
-                <CountdownTimer date="2020-07-26"/>
+                <CountdownTimer date="2020-07-28"/>
+                <CountdownTimer date="2020-07-29"/>
             </div>
             <div className="main-countUp">
                 <h2>Count Up</h2>
